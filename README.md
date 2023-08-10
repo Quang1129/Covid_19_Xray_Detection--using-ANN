@@ -1,6 +1,6 @@
 # Viral Pneumonia, Covid Detection using ANN 
 ## ANN
-The Covid-19 pandemic happened 3 years ago and it has left quite an impact in all aspects around the world. However, it probably left quite a lot of data about that disease such as: Lungs, brain, .. In this project I will train my model to recognize which lungs are infected with covid , inflammation. healthy lungs or lungs. My dataset has been uploaded with the file ipynb. In this project, I will use Pytorch. If you use Google Colab then you don't need to install just import torch normally. On the other hand, when you use another environments need to install using command line in terminal.
+The Covid-19 pandemic happened 3 years ago and it has left quite an impact in all aspects around the world. However, it probably left quite a lot of data about that disease such as: Lungs, brain, .. In this project I will train my model to recognize which lungs are infected with covid , inflammation. healthy lungs or lungs. My dataset has been uploaded with the file ipynb. In this project, I will use Pytorch. If you use Google Colab then you don't need to install just import torch normally. On the other hand, when you use another environments need to install Pytorch using command line in terminal.
 
 - For this project, I will use ANN to train this dataset. (I know it won't be as good as CNN (feature extraction)
 - The structure of an ANN includes: An input layer, one or more hidden layers and an output layer.
